@@ -37,10 +37,17 @@ I'm a full-stack developer passionate about building AI-powered products and shi
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps & Tools**
+**DevOps & Deploy**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+**AI & LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -69,9 +76,9 @@ I'm a full-stack developer passionate about building AI-powered products and shi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linncharm&show_icons=true&theme=dracula&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Linncharm&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Linncharm&theme=dracula&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Linncharm&theme=dracula&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
