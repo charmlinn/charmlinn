@@ -5,7 +5,7 @@
 I'm a full-stack developer passionate about building AI-powered products and shipping things that matter. From SaaS platforms to automation tools, I love turning ideas into working software.
 
 - 🔭 Currently working on: AI-driven SaaS products
-- 🌱 Exploring: LLM agents, Go backend, and product monetization
+- 🌱 Exploring: LLM agents, and product monetization
 - 💬 Ask me about: Full-stack development, AI integration, indie hacking
 - 📫 Reach me at: [linncharm9@gmail.com](mailto:linncharm9@gmail.com)
 - ⚡ Fun fact: Nice to meet you!
@@ -76,9 +76,9 @@ I'm a full-stack developer passionate about building AI-powered products and shi
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Linncharm&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=charmlinn&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Linncharm&theme=dracula&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=charmlinn&theme=dracula&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
