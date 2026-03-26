@@ -58,7 +58,7 @@ I'm a full-stack developer passionate about building AI-powered products and shi
 |---------|-------------|------|
 | **[LumenFeng](https://www.lumenfeng.com/ai-bedroom-generator)** | AI-powered Feng Shui bedroom design generator | Next.js, AI |
 | **[ArchyBase](https://www.archybase.com)** | All in one platform that use ai to redesign room. | Next.js, All in Node, AI, Docker,Threejs |
-| **[Uni-One](https://www.uni-one.ai)** | AI image generator — text-to-image & photo transformation with multi-reference style blending | Next.js, AI |
+| **[Uni-1](https://www.uni-one.ai)** | AI image generator — text-to-image & photo transformation with multi-reference style blending | Next.js, AI |
 
 ### Tools & Utilities
 | Project | Description | Tech |
